@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "jobs": [
+    {
+      "id": "2303-background",
+      "mode": "generate",
+      "prompt": "A wide illustrated forest scene in a warm, cute, hand-drawn crayon and colored-pencil sketch style on cream paper, matching the reference art style exactly (same soft pencil-grain texture, same pastel warm palette, same gentle rounded linework). A grand old cherry blossom tree stands at the center of a soft green mountain forest, its thick trunk has a cozy round hollow near the base lined with green vines and pink cherry petals, like a tiny warm resting nook glowing softly inside. Rolling pastel-green hills and scattered pine trees in the background, a gentle blue sky with fluffy crayon-textured clouds, pink cherry blossom petals drifting through the air, a small cartoon bee character flying near the branches. Warm golden afternoon light, whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark, no people.",
+      "references": ["generated-images/inputs/thumbnail.png"],
+      "reference_roles": ["overall art style reference"],
+      "size": "1536x1024",
+      "out": "generated-images/2303-background.png"
+    },
+    {
+      "id": "2303-item-dewwater",
+      "mode": "generate",
+      "prompt": "A single cute item illustration in the same warm hand-drawn crayon and colored-pencil sketch style as the reference (same cream paper texture, same pastel palette, same soft pencil linework): a small round leaf-shaped cup filled with sparkling dew water sitting on a tiny patch of grass, with a small sweet rice-cake snack resting beside it. Centered composition, plain soft cream background, no scenery, no text, no watermark.",
+      "references": ["generated-images/inputs/thumbnail.png"],
+      "reference_roles": ["overall art style reference"],
+      "size": "1024x1024",
+      "out": "generated-images/2303-item-dewwater.png"
+    },
+    {
+      "id": "2303-item-clock",
+      "mode": "generate",
+      "prompt": "A single cute item illustration in the same warm hand-drawn crayon and colored-pencil sketch style as the reference (same cream paper texture, same pastel palette, same soft pencil linework): a small round wooden clock with a warm honey-brown finish, simple hand-drawn clock hands and numbers, hanging from a little loop of string tied in a bow. Centered composition, plain soft cream background, no scenery, no text, no watermark.",
+      "references": ["generated-images/inputs/thumbnail.png"],
+      "reference_roles": ["overall art style reference"],
+      "size": "1024x1024",
+      "out": "generated-images/2303-item-clock.png"
+    },
+    {
+      "id": "2303-item-ukulele",
+      "mode": "generate",
+      "prompt": "A single cute item illustration in the same warm hand-drawn crayon and colored-pencil sketch style as the reference (same cream paper texture, same pastel palette, same soft pencil linework): a small wooden ukulele with a warm honey-brown body, soft cream-colored strings, leaning gently to one side. Centered composition, plain soft cream background, no scenery, no text, no watermark.",
+      "references": ["generated-images/inputs/thumbnail.png"],
+      "reference_roles": ["overall art style reference"],
+      "size": "1024x1024",
+      "out": "generated-images/2303-item-ukulele.png"
+    }
+  ]
+}
