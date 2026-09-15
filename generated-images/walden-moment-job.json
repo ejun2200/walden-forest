@@ -1,0 +1,250 @@
+{
+  "version": 1,
+  "jobs": [
+    {
+      "id": "2102-moment",
+      "mode": "generate",
+      "prompt": "A wide illustrated night rooftop scene in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same rooftop setting and city skyline). Two teenage figures stand near the rooftop's edge railing under a huge glowing full moon, the girl gently pointing down at a distant line of tiny uniformed figures walking far below in the sleeping city. The night sky is deep indigo fading into a thin band of soft orange at the horizon, dawn just beginning. Warm, quiet, contemplative mood. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2102_bg.png"],
+      "reference_roles": ["this student's own rooftop illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2102_moment_bg.png"
+    },
+    {
+      "id": "2111-moment",
+      "mode": "generate",
+      "prompt": "A wide illustrated overgrown garden scene in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same garden setting). A schoolgirl sits cross-legged on the same round mossy stone, head tilted up mid-song, eyes closed and smiling softly. Gentle cartoon wind-swirls drawn as soft curved lines drift from the surrounding trees toward her, leaves visibly rustling in rhythm with her humming, as if the forest is answering her back. Warm late-summer afternoon light, wildflowers around the stone. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2111_bg.png"],
+      "reference_roles": ["this student's own garden illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2111_moment_bg.png"
+    },
+    {
+      "id": "2114-moment",
+      "mode": "generate",
+      "prompt": "A wide illustrated bathroom shower-booth scene in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same shower-booth setting). A large mirror is almost completely fogged over with soft swirling steam clouds, except for one single thin diagonal streak of clear glass where a single water droplet has run down. Through that narrow clear streak, a faint reflected face is visible, quietly smiling, hair damp and flattened. Warm dim indoor lamp light, steam drawn as soft crayon-textured curls filling the room. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark, no visible full face — only the fragment through the streak.",
+      "references": ["generated-images/2114_bg.png"],
+      "reference_roles": ["this student's own shower-booth illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2114_moment_bg.png"
+    },
+    {
+      "id": "2209-moment",
+      "mode": "generate",
+      "prompt": "A wide illustrated cherry blossom tree scene in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same cherry tree setting). A cheerful schoolgirl spins mid-twirl beneath the blooming branches, a small notebook and pencil in hand as if she just paused from sketching the tree, pink cherry petals swirling playfully around her in the breeze. Bright midday sunlight, a light and joyful mood very different from tired passersby elsewhere. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2209_bg.png"],
+      "reference_roles": ["this student's own cherry tree illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2209_moment_bg.png"
+    },
+    {
+      "id": "2217-moment",
+      "mode": "generate",
+      "prompt": "A wide illustrated mountaintop clearing scene at night in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same mountaintop setting with logs and grass). A single bright yellow sunflower grows unexpectedly among the grass and logs, glowing with a soft warm inner light against the cool starry night. A girl kneels beside it, a telescope resting nearby, looking between the sunflower and the star-filled sky with quiet wonder. Deep blue night sky scattered with hand-drawn crayon stars. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2217_bg.png"],
+      "reference_roles": ["this student's own mountaintop illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2217_moment_bg.png"
+    },
+    {
+      "id": "2303-moment",
+      "mode": "generate",
+      "prompt": "A wide illustrated cherry blossom tree scene in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same tree hollow setting). Heavy rain falls in soft crayon streaks while a boy shelters dry inside the tree's round hollow, cherry petals floating and swirling on rain puddles below. Above the tree, the rain is just clearing and a soft pastel rainbow arches across the sky. Warm hopeful mood despite the rain. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2303_bg.png"],
+      "reference_roles": ["this student's own cherry tree illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2303_moment_bg.png"
+    },
+    {
+      "id": "2306-moment",
+      "mode": "generate",
+      "prompt": "A wide illustrated empty classroom scene (Room Zero) in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same quiet classroom setting). A small potted plant sits on a desk in the middle of the sunlit room, and a tiny cartoon bee hovers curiously beside its unopened bud. A schoolgirl watches quietly from a few steps away, cautious but curious rather than afraid. Soft golden Friday-afternoon light through the windows. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2306_bg.png"],
+      "reference_roles": ["this student's own classroom illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2306_moment_bg.png"
+    },
+    {
+      "id": "2402-moment",
+      "mode": "generate",
+      "prompt": "A wide illustrated log-cabin-by-the-lake interior scene in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same lakeside cabin setting). Inside the cozy cabin, a fat orange tabby cat curls up on a soft blanket, and the narrator lies beside it gently stroking its fur. Warm lamp-lit glow inside, a foggy lake and small white boat visible through the window. A calm, comforted, no-longer-lonely mood. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2402_bg.png"],
+      "reference_roles": ["this student's own lake cabin illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2402_moment_bg.png"
+    },
+    {
+      "id": "2408-moment",
+      "mode": "generate",
+      "prompt": "A wide illustrated lush green park scene in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same weathered park-bench setting). A student with messy hair stands amid the greenery holding an eco bag with a broken strap and a small banner, looking around with wide, curious, overwhelmed eyes as a squirrel darts past through the bushes. Dappled sunlight filters through the leaves onto the grey benches. A gentle, unexpectedly wonder-filled mood. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2408_bg.png"],
+      "reference_roles": ["this student's own park illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2408_moment_bg.png"
+    },
+    {
+      "id": "2409-moment",
+      "mode": "generate",
+      "prompt": "A wide illustrated tree-lined asphalt schoolpath scene in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same schoolpath setting). A tired student sits on the ground against a tree trunk while a plump orange cat (Mr. Big) rubs happily against their leg, belly showing, and small birds perch on branches overhead singing softly. Warm quiet afternoon light filtering through dense leaves onto the asphalt path. A small comforting mood. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2409_bg.png"],
+      "reference_roles": ["this student's own schoolpath illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2409_moment_bg.png"
+    },
+    {
+      "id": "2410-moment",
+      "mode": "generate",
+      "prompt": "A wide illustrated pavement-crack scene in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same small dandelion-in-the-crack setting). A single small yellow dandelion, now gone to soft white fluffy seed, is held up by a little girl kneeling on the school path; she blows gently and the fluffy seeds drift upward into a warm golden-hour sky. Soft warm afternoon light lasting long over the small forgotten corner. A tender, wishing mood. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2410_bg.png"],
+      "reference_roles": ["this student's own dandelion illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2410_moment_bg.png"
+    },
+    {
+      "id": "2413-moment",
+      "mode": "generate",
+      "prompt": "A wide illustrated street-tree scene in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same street-tree setting). An elderly man stands beneath the big tree's full green canopy, one hand resting gently on its thick trunk, eyes closed, remembering his childhood spent playing beneath it. Warm nostalgic late-afternoon light, small birds resting in the branches, fallen leaves scattered at the roots. A quiet, tender, full-circle mood. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2413_bg.png"],
+      "reference_roles": ["this student's own street tree illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2413_moment_bg.png"
+    },
+    {
+      "id": "2416-moment",
+      "mode": "generate",
+      "prompt": "A wide illustrated open green meadow campground scene in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same meadow campground setting). A girl glides on inline skates down the open path in a cozy long cardigan, arms slightly spread for balance, hair blown back by the wind. A golden-furred stray dog trots calmly away in the distance, glancing back once with a soft wag of its tail. Warm golden autumn sky, wide open grass. A free, breezy, quietly reassured mood. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2416_bg.png"],
+      "reference_roles": ["this student's own meadow illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2416_moment_bg.png"
+    },
+    {
+      "id": "2419-moment",
+      "mode": "generate",
+      "prompt": "A wide illustrated quiet airport terminal scene at dusk in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same terminal window setting). A lone figure sits in a corner terminal chair beside a huge window, a pen and small notebook in hand, watching an airplane taxi down the runway outside as the sky turns from pale orange to dusky blue. Warm interior terminal lighting contrasts gently with the cooling evening sky. A hopeful, quietly anticipatory mood. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2419_bg.png"],
+      "reference_roles": ["this student's own airport illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2419_moment_bg.png"
+    },
+    {
+      "id": "2420-moment",
+      "mode": "generate",
+      "prompt": "A wide illustrated cozy treehouse interior scene in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same treehouse setting). Inside the little wooden treehouse, a boy sits cross-legged reading a small diary by soft lantern light, a few chocolates unwrapped beside him, his face caught between laughing and crying at once. Sunlight streams in soft warm beams through gaps in the surrounding leaves. A gently cathartic, warmly emotional mood. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2420_bg.png"],
+      "reference_roles": ["this student's own treehouse illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2420_moment_bg.png"
+    },
+    {
+      "id": "2502-moment",
+      "mode": "generate",
+      "prompt": "A wide illustrated dry greenhouse xerophyte-corner scene in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same cactus-greenhouse setting). A girl leans close with a small wooden magnifying glass toward a round barrel cactus covered in sharp spines, and right in the center of the spines a single tiny delicate crimson flower bud is quietly blooming. Soft diffused greenhouse light through dusty glass panes. A calm, revelatory, gently understanding mood. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2502_bg.png"],
+      "reference_roles": ["this student's own greenhouse illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2502_moment_bg.png"
+    },
+    {
+      "id": "2513-moment",
+      "mode": "generate",
+      "prompt": "A wide illustrated underground sumgol sinkhole scene in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same glowing bioluminescent-moss cave setting). Small forest animals — a colorful pitta bird, a weasel, and two badgers — gather curiously near a patch of glowing green moss in the dim cave light, while a girl crouches quietly at the cave's edge watching them with wide, delighted eyes. Soft green bioluminescent glow lighting the cool dark cave. A hushed, wondering mood. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2513_bg.png"],
+      "reference_roles": ["this student's own sumgol illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2513_moment_bg.png"
+    },
+    {
+      "id": "2517-moment",
+      "mode": "generate",
+      "prompt": "A wide illustrated hidden forest pond scene in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same root-bench pond setting). A crying girl sits on the tree's root-bench with her face buried in her knees, while a sleepy brown bear rests warmly at her feet and a small rabbit sits quietly beside her shoes. Pink cherry petals float gently on the small lake beside them, lit by a soft pink sunset filtering through the branches. A tender, comforting mood. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2517_bg.png"],
+      "reference_roles": ["this student's own forest pond illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2517_moment_bg.png"
+    },
+    {
+      "id": "2602-moment",
+      "mode": "generate",
+      "prompt": "A wide illustrated mysterious stone archway scene at the edge of a buzzing city in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same lakeside-cabin forest setting glimpsed beyond). A tired girl walks toward a tall old stone archway covered in leaves and blooming flowers, sunlight brightening her face as she steps closer; beyond the archway, enchanted guardian trees, a calm deep lake, and the small wooden cabin are visible in the distance. Warm inviting sunlight breaking through. A hopeful, threshold-crossing mood. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2602_bg.png"],
+      "reference_roles": ["this student's own lake cabin illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2602_moment_bg.png"
+    },
+    {
+      "id": "2608-moment",
+      "mode": "generate",
+      "note": "PLACEHOLDER — this student has not submitted STEP 4 (특별한 사건) yet. Scene below is built from her STEP 3 gift text instead; regenerate once her real STEP 4 text arrives.",
+      "prompt": "A wide illustrated red maple tree scene beside a school path in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same red maple setting). A girl sits quietly beneath the red maple's swaying branches, neither of them speaking, comfortable in shared silence, a gentle breeze drawn as soft curved lines moving through the leaves above her. Warm soft daylight. A calm, undemanding, quietly relaxed mood. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2608_bg.png"],
+      "reference_roles": ["this student's own red maple illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2608_moment_bg.png"
+    },
+    {
+      "id": "2610-moment",
+      "mode": "generate",
+      "prompt": "A wide illustrated quiet forest scene in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same forest setting). A tired man lies stretched out beneath the tree's roots, eyes closed, face relaxed for the first time, simply feeling the warm breeze move over him with no goal at all. Soft dappled sunlight through the leaves above, a few leaves drifting slowly down. A peaceful, unburdened, self-observing mood. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2610_bg.png"],
+      "reference_roles": ["this student's own forest illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2610_moment_bg.png"
+    },
+    {
+      "id": "2611-moment",
+      "mode": "generate",
+      "prompt": "A wide illustrated small lakeside den scene in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same lakeside den setting). A girl sits inside her childhood den beside the big calm lake, flipping through a thick photo album; one page glows softly warmer than the rest, showing an old photo of her smiling with friends, dimples and bright eyes visible. Warm late-afternoon light over the round lake behind her. A nostalgic, gently healing, self-recognizing mood. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2611_bg.png"],
+      "reference_roles": ["this student's own lakeside illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2611_moment_bg.png"
+    },
+    {
+      "id": "2613-moment",
+      "mode": "generate",
+      "prompt": "A wide illustrated spring mountain-school forest scene in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same mountain forest setting). A young man walks freely through the welcoming spring forest without his backpack or phone, gently touching flowers and tree trunks as he passes, his posture light and his face bright with no dark circles. Soft new spring sunlight filtering through fresh green leaves. A hopeful, freed, unburdened mood, brighter than his earlier tired visits. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2613_bg.png"],
+      "reference_roles": ["this student's own forest illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2613_moment_bg.png"
+    },
+    {
+      "id": "2617-moment",
+      "mode": "generate",
+      "prompt": "A wide illustrated peaceful forest clearing scene in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same forest clearing setting). Two friends sit together at ease in the clearing, a small football resting beside them and a little speaker playing music, both simply laughing together without needing to talk about their worries. Warm relaxed daylight filtering through the trees. A light, companionable, unburdened mood. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2617_bg.png"],
+      "reference_roles": ["this student's own forest illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2617_moment_bg.png"
+    },
+    {
+      "id": "2708-moment",
+      "mode": "generate",
+      "note": "PLACEHOLDER — this student has not submitted STEP 4 (특별한 사건) yet. Scene below is built from his STEP 2/3 place-and-items text instead; regenerate once his real STEP 4 text arrives.",
+      "prompt": "A wide illustrated small music-practice-room scene in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same practice-room setting). A boy kneels by the low wide window, camera and sketchbook resting beside him, quietly noticing a small puddle of light on the floor shaped like a mirror, an unremarkable dry flowerpot nearby that only he seems to find interesting. Soft afternoon light through the window overlooking distant mountains. A quiet, observant, unhurried mood. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2708_bg.png"],
+      "reference_roles": ["this student's own music room illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2708_moment_bg.png"
+    },
+    {
+      "id": "2716-moment",
+      "mode": "generate",
+      "prompt": "A wide illustrated schoolyard-edge forest scene in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same flat-stone forest-edge setting). A tired girl sits on the flat stone with her knees pulled to her chest, carefully arranging fallen leaves in a row beside her by color — deep red, amber, then pale yellow — while more leaves drift down from the old birch above. Soft golden autumn afternoon light. A quiet, unburdened, slowly-unclenching mood. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2716_bg.png"],
+      "reference_roles": ["this student's own forest-edge illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2716_moment_bg.png"
+    },
+    {
+      "id": "2718-moment",
+      "mode": "generate",
+      "prompt": "A wide illustrated small forest-shack scene in the same warm, hand-drawn crayon and colored-pencil sketch style as the reference image (same soft pencil-grain cream paper texture, same pastel palette, same gentle rounded linework, same willow-branch shack setting). A boy sits quietly beside the little shack built from low willow branches and ivy vine, carefully tucking a handwritten piece of poetry between the tree's roots before he leaves. Soft late-afternoon light filtering through the leaves onto the old poems left by past visitors. A gentle, unhurried, quietly grateful mood. Whimsical dreamy children's picture-book illustration, wide landscape composition, no text, no watermark.",
+      "references": ["generated-images/2718_bg.png"],
+      "reference_roles": ["this student's own forest shack illustration — match its exact art style, palette, linework and setting"],
+      "size": "1536x1024",
+      "out": "generated-images/2718_moment_bg.png"
+    }
+  ]
+}
